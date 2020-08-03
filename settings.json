@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_gravity-20forms-5f3d970f6fbd4910be-5f1fcd32feab40fbc4",
+  "environment": "Default-5885fa35-0cab-4704-a44d-a849d51f87dc",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
