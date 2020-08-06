@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "2",
-    "title": "Gravity Forms",
-    "description": "This API allows you to subscribe to Gravity Forms submissions",
+    "title": "Gravity Forms by reenhanced",
+    "description": "With the Gravity Forms add-on by reenhanced you can use this connector to easily trigger your flows.",
     "contact": {
       "name": "Reenhanced Team",
       "url": "https://www.reenhanced.com/products/gravity-forms-power-automate",
