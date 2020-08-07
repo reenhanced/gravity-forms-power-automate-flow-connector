@@ -3,7 +3,7 @@
   "info": {
     "version": "2",
     "title": "Gravity Forms by reenhanced",
-    "description": "With the Gravity Forms add-on by reenhanced you can use this connector to easily trigger your flows.",
+    "description": "Gravity Forms by reenhanced lets you connect your Gravity Forms submissions to Power Automate. Once you install the add-on into your Gravity Forms Wordpress site, you'll be able to send form submissions to Power Automate for use in your flows.",
     "contact": {
       "name": "Reenhanced Team",
       "url": "https://www.reenhanced.com/products/gravity-forms-power-automate",
